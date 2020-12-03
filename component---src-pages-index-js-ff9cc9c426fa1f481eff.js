@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,a){"use strict";a.r(n);var o=a("q1tI"),t={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"};n.default=function(){return o.createElement("main",{style:t},"Korabaga")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ff9cc9c426fa1f481eff.js.map
