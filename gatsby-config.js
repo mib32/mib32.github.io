@@ -1,9 +1,12 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://mib32.github.io`,
+  },
   plugins: [
     {
-      resolve: "gatsby-plugin-google-analytics",
+      resolve: "gatsby-plugin-google-gtag",
       options: {
-        trackingId: "G-269V4B6H8T",
+        trackingIds: ["G-269V4B6H8T"],
       },
     },
     "gatsby-plugin-image",
