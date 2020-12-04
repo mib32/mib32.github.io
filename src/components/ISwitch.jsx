@@ -2,7 +2,7 @@ import React from 'react'
 
 const defaultLocale = 'ru';
 const ISwitch = (props) => {
-  const [ locale, setLocale ] = React.useState(window ? (window.localStorage.getItem('mib32.locale') || defaultLocale) : defaultLocale);
+  const [ locale, setLocale ] = React.useState(typeof window !== 'undefined' ? (window.localStorage.getItem('mib32.locale') || defaultLocale) : defaultLocale);
 
   const handleLocaleChange = (l) => {
     window.localStorage.setItem('mib32.locale', l)
