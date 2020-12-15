@@ -3,4 +3,5 @@
 <url> <loc>https://mib32.github.io/cont/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mib32.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mib32.github.io/inet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mib32.github.io/k2egraph/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

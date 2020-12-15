@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"0Q5h":function(n,o,t){n.exports=t.p+"static/kedr2earthsfdp-9b920a9175ab20ba6b54ab2c9e504b8f.svg"},EqPb:function(n,o,t){"use strict";t.r(o);var e=t("q1tI"),i=t("0Q5h"),r=t.n(i);o.default=function(){return e.createElement("main",null,e.createElement("img",{src:r.a,onLoad:function(){console.log(3654-window.outerWidth/2,3746-window.outerHeight/2),window.scrollTo(3654-window.outerWidth/2,3746-window.outerHeight/2)}}))}}}]);
+//# sourceMappingURL=component---src-pages-k-2-egraph-js-27e91acd9c9c0d116120.js.map
