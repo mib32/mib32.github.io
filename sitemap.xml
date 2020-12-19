@@ -5,4 +5,5 @@
 <url> <loc>https://mib32.github.io/inet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mib32.github.io/k2egraph/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mib32.github.io/repushkograph/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mib32.github.io/telegram-graph/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
